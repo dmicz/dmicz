@@ -1,16 +1,23 @@
-### Hi there 👋
+### About me
 
-<!--
-**dmicz/dmicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year computer science student at The Pennsylvania State University.
 
-Here are some ideas to get you started:
+I previously worked with the SAFARI Research Group at ETH Zurich on implementing experimental tools with Python, Arduino, and Xilinx Vivado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently expanding my skills in C/C++ and learning about computer systems architecture. Most recently I've been working on the projects listed on my [blog](https://dmicz.github.io).
+
+### Languages I'm familiar with
+
+- C
+- C++
+- Python
+- Java
+- C#
+
+### Areas I'm interested in
+
+- Machine learning
+- Software engineering
+- Computer architecture
+- Computer systems architecture
+- FPGA engineering

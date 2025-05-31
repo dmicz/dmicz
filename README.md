@@ -1,7 +1,7 @@
 ## Dennis Miczek
 
 - Machine Learning | Deep Learning | Full-Stack Development  
-- Incoming Software Engineering Intern @ Palantir
+- Software Engineer Intern @ Palantir
 - Computer Science @ Penn State (Graduating Dec 2025)
 
 ### Selected Projects
